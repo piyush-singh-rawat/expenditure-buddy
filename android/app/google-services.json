@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1046216357174",
+    "project_id": "expenditurebuddy-4d533",
+    "storage_bucket": "expenditurebuddy-4d533.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046216357174:android:2ef869ffbedcf244d2af97",
+        "android_client_info": {
+          "package_name": "com.example.expenditurebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046216357174-ps8iv56rcu4kard7rug8r6e66l8t8c3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNI3LCdwTVStp7T42lGq-p4Ovg3tZzuDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046216357174-ps8iv56rcu4kard7rug8r6e66l8t8c3u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1046216357174-8d251r5ge7mu9at4h4eo3ralg7t9sict.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.expenditurebuddy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
